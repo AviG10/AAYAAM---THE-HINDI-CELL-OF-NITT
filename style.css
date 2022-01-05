@@ -123,7 +123,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("images/background\ final.webp") no-repeat;
+  background: url("Images/background\ final.webp") no-repeat;
   background-size: contain;
   background-position: right ;
   background-attachment: fixed;
@@ -282,50 +282,50 @@ section .button button:hover{
  .slider{
    width: 800px;
    height: 600px;
-   background: url(images/1.jpeg) no-repeat;
+   background: url(Images/1.jpeg) no-repeat;
    margin: 100px auto;
    animation: slide 20s infinite;
    background-size: contain;
  }
  @keyframes slide{
    10%{
-     background: url(images/2.jpeg) no-repeat;
+     background: url(Images/2.jpeg) no-repeat;
      background-size: contain;
    }
    20%{
-    background: url(images/3.jpeg) no-repeat;
+    background: url(Images/3.jpeg) no-repeat;
     background-size: contain;
   }
   30%{
-    background: url(images/4.jpeg) no-repeat;
+    background: url(Images/4.jpeg) no-repeat;
     background-size: contain;
   }
   40%{
-    background: url(images/5.jpeg) no-repeat;
+    background: url(Images/5.jpeg) no-repeat;
     background-size: contain;
   }
   50%{
-    background: url(images/6.jpeg) no-repeat;
+    background: url(Images/6.jpeg) no-repeat;
     background-size: contain;
   }
   60%{
-    background: url(images/7.jpeg) no-repeat;
+    background: url(Images/7.jpeg) no-repeat;
     background-size: contain;
   }
   70%{
-    background: url(images/8.jpeg) no-repeat;
+    background: url(Images/8.jpeg) no-repeat;
     background-size: contain;
   }
   80%{
-    background: url(images/9.jpeg) no-repeat;
+    background: url(Images/9.jpeg) no-repeat;
     background-size: contain;
   }
   90%{
-    background: url(images/10.jpeg) no-repeat;
+    background: url(Images/10.jpeg) no-repeat;
     background-size: contain;
   }
   100%{
-    background: url(images/11.jpeg) no-repeat;
+    background: url(Images/11.jpeg) no-repeat;
     background-size: contain;
   }
  }
