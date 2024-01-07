@@ -1,7 +1,8 @@
-# AAYAAM---THE-HINDI-CELL-OF-NITT
+# AAYAAM - THE HINDI CELL OF NITT
 
-### I made this Website as an assignment given to me in the Induction Procedure Of AAYAAM Club , Which is The HINDI CELL OF NATIONAL INSTITUTE OF TECHNOLOGY,TIRUCHIRAPALLI.
+- A Fully Responsive static website made for the induction process of the WebOps Team of AAYAAM - The Hindi Cell of NITT Club.
+- It has features like a sticky Navbar and single button on click which the user redirected to the Home Page.
+- It is a Single-Page Application having the sections- Home, About Us, Highlights, Events, and Contact Us.
+- It was built with HTML, CSS & JavaScript.
 
-### This is a Static Website for AAYAAM Club Build with Pure HTML , CSS , JavaScript.
-
-#### Wesite Link : https://avig10.github.io/AAYAAM---THE-HINDI-CELL-OF-NITT/
+#### Website Link: https://avig10.github.io/AAYAAM---THE-HINDI-CELL-OF-NITT/
